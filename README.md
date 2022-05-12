@@ -1,0 +1,2 @@
+# Sentiment_Analysis_Embedding_RNN_LSTM
+Sentiment_Analysis of movie review _Embedding_RNN_LSTM
